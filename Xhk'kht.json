@@ -575,7 +575,7 @@
   ]
 }
 {
-    "name": "CANALES INTERNACIONAL 3",
+    "name": "CANALES INTERNACIONAL",
     "samples": [
       {
         "name": "ESPN",
@@ -751,7 +751,7 @@
         "Referer": "https://portal.app.flow.com.ar/guia-de-tv",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)..."
   },
-{
+  {
       "name": "FOX SPORTS 3",
       "url": "https://edge-mix01-ird.cvattv.com.ar/tok_.../FoxSports3HD.mpd",
       "type": "CLEARKEY",
@@ -1871,4 +1871,5 @@
         "icono": "https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/640px-Radio_Capital_logo_%282020%29.svg.png"
     }
   ]
+
 } 

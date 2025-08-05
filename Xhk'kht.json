@@ -9,6 +9,13 @@
       "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png"
     },
     {
+       "name": "EVENTOS TIGO PY",
+       "uri": "https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.mpd",
+       "drm_scheme": "clearkey",
+       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
+       "icono": "https://i.supaimg.com/48025f88-335c-40cc-8fc4-ad369bde6f91.jpg"
+      },
+      {
         "name": "EVENTOS TIGO PY",
         "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "drm_scheme": "clearkey",
@@ -1871,4 +1878,5 @@
         "icono": "https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/640px-Radio_Capital_logo_%282020%29.svg.png"
     }
   ]
+
 } 
